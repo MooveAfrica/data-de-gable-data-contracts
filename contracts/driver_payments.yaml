@@ -2,7 +2,7 @@ id: 6b7f4f6c-324c-4a26-9114-eefdee49d5c9
 spec-version: 0.0.1
 name: DriverPayments
 namespace: UberContracts
-dataAssetResourceName: protobuf://git@github.com/MooveAfrica/data-de-gable-data-contracts/event_schemas/UberDriverPayments.proto:UberContracts.DriverPayments
+dataAssetResourceName: protobuf://git@github.com:MooveAfrica/data-de-gable-data-contracts/event_schemas/UberDriverPayments.proto:UberContracts.DriverPayments
 doc: Contract representing the Driver Payments report type retrieved from Uber system
 owner: vitalik.badion@moove.io
 schema:
