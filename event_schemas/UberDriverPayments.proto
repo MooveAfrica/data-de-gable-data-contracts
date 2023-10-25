@@ -9,5 +9,6 @@ message DriverPayments {
   required int32 driveruuid = 2;
   optional float totalearnings = 3;
   required float refunds = 4;
+  required float paidToYou = 5;
 
 }
