@@ -5,7 +5,7 @@ package UberContracts;
 import "google/protobuf/timestamp.proto";
 
 message DriverPayments {
-  required string org_id = 1;
+  required string organization_id = 1;
   required int32 driveruuid = 2;
   optional float totaldriverearnings = 3;
   required float refunds = 4;
